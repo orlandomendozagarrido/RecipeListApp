@@ -4,3 +4,4 @@ export default class Image extends Component {
   return( <img src={this.props.source} alt={this.props.text} /> )
  }
 }
+//
